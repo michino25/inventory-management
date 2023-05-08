@@ -1,0 +1,7 @@
+Thông tin tài khoản:Admin
+user: admin
+pass: admin123
+Thu ngân
+user: cashier
+pass: 12345
+
